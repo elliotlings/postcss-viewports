@@ -118,7 +118,7 @@ This allows you do something like:
 <div class="one-half" data-palm-"one-whole">
     ...
 </div>
-<div class="one-half" data-palm="one-half">
+<div class="one-half" data-palm="one-whole">
     ...
 </div>
 
