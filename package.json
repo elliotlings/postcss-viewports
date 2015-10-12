@@ -15,5 +15,9 @@
     "css"
   ],
   "author": "Elliot Lings (http://elliotlings.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elliotlings/postcss-viewports.git"
+  }
 }
