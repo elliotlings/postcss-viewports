@@ -1,0 +1,19 @@
+{
+  "name": "postcss-viewports",
+  "version": "1.0.0",
+  "description": "A PostCSS plugin which allows you to specify viewports and make CSS classes you specify available as data-* attributes.",
+  "main": "index.js",
+  "dependencies": {
+    "postcss": "^5.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "viewports",
+    "css"
+  ],
+  "author": "Elliot Lings (http://elliotlings.com)",
+  "license": "MIT"
+}
