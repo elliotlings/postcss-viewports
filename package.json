@@ -1,6 +1,6 @@
 {
   "name": "postcss-viewports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A PostCSS plugin which allows you to specify viewports and make CSS classes you specify available as data-* attributes.",
   "main": "index.js",
   "dependencies": {
