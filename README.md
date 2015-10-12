@@ -2,13 +2,13 @@
 
 [![npm-version]][npm]
 
-This allows you do add data-[viewport] attributes to your CSS easily, making it easier to control styling for different viewports via the HTML.
+This allows you do add data-[viewport] properties to your CSS easily, making it easier to control styling for different viewports via the HTML.
 
 It will use any properties preceded by or wrapped by a @viewport rule and add data-[viewport] properties for these properties.
 
-## Using PostCSS-Viewpoets
+## Using PostCSS-Viewports
 
-### Setup:
+### Setup
 
 ```js
 var options = {
