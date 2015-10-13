@@ -39,7 +39,7 @@ var addBreakpoints = function(atRule, opts) {
     atRule.remove();
 };
 
-module.exports = postcss.plugin('postcss-breakpoints', opts => {
+module.exports = postcss.plugin('postcss-viewports', opts => {
     return (css, result) => {
         css.walkAtRules(rule => {
             if (rule.name == 'viewports') {
